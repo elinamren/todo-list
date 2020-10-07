@@ -7,7 +7,7 @@ const todoList = document.querySelector(".todo-list");
 todoBtn.addEventListener("click", addTodo);
 todoList.addEventListener("click", deleteChecked);
 
-//Functions
+//Functions hohoohoh
 function addTodo(event) {
   event.preventDefault();
 
